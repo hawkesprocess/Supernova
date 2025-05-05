@@ -1,0 +1,31 @@
+Please analyze the following transcript and extract:
+
+1. KEY LEARNING POINTS: Identify the main educational concepts, lessons, or insights presented in the content.
+2. QUESTIONS & ANSWERS: For each significant question in the transcript, provide both the question and its corresponding answer.
+
+Format your response as follows:
+
+## KEY LEARNING POINTS
+- Point 1
+- Point 2
+- Point 3
+...
+
+## QUESTIONS & ANSWERS
+
+### Question 1
+[The exact question from the transcript]
+
+### Answer 1
+[The answer provided to Question 1]
+
+### Question 2
+[The exact question from the transcript]
+
+### Answer 2
+[The answer provided to Question 2]
+
+...and so on for all significant question-answer pairs.
+
+TRANSCRIPT:
+{transcript} 
